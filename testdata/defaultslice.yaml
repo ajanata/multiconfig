@@ -1,0 +1,6 @@
+testfield: foo
+
+nested:
+    - anothernestedfield: bar
+    - nestedfield: quux
+      anothernestedfield: baz

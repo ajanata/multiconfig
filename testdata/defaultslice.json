@@ -1,0 +1,9 @@
+{
+ "TestField": "foo",
+ "Nested": [{
+   "AnotherNestedField": "bar"
+ },{
+   "NestedField": "quux",
+   "AnotherNestedField": "baz"
+ }]
+}
